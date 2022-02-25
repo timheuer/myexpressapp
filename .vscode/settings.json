@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/39efd248-7fd1-467e-9de3-cc501e6609d8/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/myexpressapptim",
+    "appService.deploySubpath": "."
+}
